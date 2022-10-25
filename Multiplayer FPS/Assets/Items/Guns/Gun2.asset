@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8840a9474b05384ea02bb45ad20a75f, type: 3}
   m_Name: Gun2
   m_EditorClassIdentifier: 
-  itemName: Gun 1
+  itemName: Gun 2
